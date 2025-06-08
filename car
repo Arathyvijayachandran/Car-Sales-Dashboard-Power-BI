@@ -1,0 +1,54 @@
+## Sales Revenue
+Total revenue: ₹671.5M
+Represents the cumulative car sales revenue.
+Price Slider
+Filters cars based on their price range (₹1,200 to ₹85,800).
+Year Selector
+Allows filtering data for 2022 or 2023.
+
+## Filters
+Month Dropdown
+Filter sales data by a specific month or view all months.
+Dealer Name Dropdown
+Filter based on specific dealers.
+
+## Key Visualizations
+Transmission Type Pie Chart
+Shows the distribution of Automatic (Auto) vs Manual transmission:
+Auto: 52.6%
+Manual: 47.4%
+
+## Gender Count Pie Chart
+Displays gender-based data of customers:
+Majority are Male customers.
+
+## Top 10 Companies in Sales (Bar Chart)
+Highlights the companies with the highest sales revenue:
+Top: Chevrolet, Ford, Dodge, Oldsmobile, Mercedes-B.
+
+## Detailed Table 
+
+## Sales by Company and Year
+Company & Model
+2022 Sales
+2023 Sales
+Total Sales
+Shows year-wise and total sales figures.
+
+## Region by Company (Treemap)
+Treemap of Companies by Region
+Color-coded blocks representing companies by region.
+The size indicates sales contribution.
+
+## Sales Trend Over Months (Line Graph)
+Sales Revenue by Month
+Visualizes monthly sales performance.
+Notable peak around October–December, indicating seasonal trends or successful campaigns.
+
+## ✅ Overall Insights You Can Draw
+
+Best-selling brands: Chevrolet, Ford, Dodge.
+Peak sales months: October and December.
+More male buyers.
+Slight preference for automatic cars.
+Growth in 2023 sales over 2022 for most companies.
